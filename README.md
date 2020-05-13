@@ -1,6 +1,6 @@
 # softkeyboard
-Author: wkangk <wangkangchn@163.com>  
 PyQt5实现的软键盘
+Author: wkangk <wangkangchn@163.com>  
 
 Created Time: 2020-05-13 20:48:02 中国标准时间  
 Version: SoftKeyBoard v1.2
@@ -9,7 +9,7 @@ Version: SoftKeyBoard v1.2
 1. 对输入框进行优化, 增加一次删除所有选择文本
 2. 消除输入位置不正确bug
 
-========================================================================
+========================================================================  
 Created Time: 2020-05-12 23:17:26 中国标准时间  
 Version: SoftKeyBoard v1.1  
 
@@ -18,7 +18,7 @@ Version: SoftKeyBoard v1.1
 2. 双击CapsLock键, 锁定大写输出, 可输出大写期间CapsLock保持绿色
 3. 单击shift时, 风格改为绿色
 
-========================================================================
+========================================================================  
 Created Time: 2020-05-12 20:37:19 中国标准时间  
 Version: SoftKeyBoard v1.0  
 
