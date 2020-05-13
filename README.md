@@ -1,7 +1,7 @@
 # softkeyboard
+Author: wkangk <wangkangchn@163.com>  
 PyQt5实现的软键盘
 
-Author: wkangk <wangkangchn@163.com>  
 Created Time: 2020-05-13 20:48:02 中国标准时间  
 Version: SoftKeyBoard v1.2
 
