@@ -8,7 +8,7 @@ Version: SoftKeyBoard v1.3
 1. 添加背景  
     添加背景的方法:  
         (1) 将需要添加的背景图片放到 pic 目录下, 而后使用 QtDesigner 或 QtCreater  
-        将图片添加进资源, 而后修改样式加入背景即可 
+        将图片添加进资源, 而后修改样式加入背景即可  
         (2) 使用命令 pyrcc5 -o pic_rc.py pic.qrc 生成 pic_rc.py 文件将其 
         放入主目录即可
 
