@@ -4156,3 +4156,136 @@
 [2020-05-13 21:07:01 LoginWindow.py 44] DEBUG  焦点进入: le_user
 [2020-05-13 21:09:25 LoginWindow.py 44] DEBUG  焦点进入: le_user
 [2020-05-13 21:09:28 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:18:20 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:18:23 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:18:30 LoginWindow.py 44] DEBUG  焦点进入: le_passwd
+[2020-08-14 20:20:26 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:20:53 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:20:55 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:21:00 LoginWindow.py 44] DEBUG  焦点进入: le_passwd
+[2020-08-14 20:21:04 LoginWindow.py 52] DEBUG  点击登录按钮.
+[2020-08-14 20:21:07 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:21:39 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:21:49 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:21:58 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:22:24 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:22:45 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:22:51 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:23:30 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:23:32 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-14 20:23:34 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 09:39:55 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 09:39:58 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 09:40:00 LoginWindow.py 52] DEBUG  点击登录按钮.
+[2020-08-18 09:40:02 LoginWindow.py 52] DEBUG  点击登录按钮.
+[2020-08-18 09:40:04 LoginWindow.py 77] DEBUG  点击注册按钮.
+[2020-08-18 09:40:05 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 09:40:09 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 11:19:13 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 11:19:16 LoginWindow.py 52] DEBUG  点击登录按钮.
+[2020-08-18 11:23:21 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 11:23:25 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 11:23:27 LoginWindow.py 77] DEBUG  点击注册按钮.
+[2020-08-18 11:23:28 LoginWindow.py 52] DEBUG  点击登录按钮.
+[2020-08-18 11:23:31 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 11:51:14 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 11:51:23 LoginWindow.py 52] DEBUG  点击登录按钮.
+[2020-08-18 11:55:20 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 11:55:24 LoginWindow.py 77] DEBUG  点击注册按钮.
+[2020-08-18 11:55:25 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 11:55:26 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 11:55:27 LoginWindow.py 52] DEBUG  点击登录按钮.
+[2020-08-18 14:23:37 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 14:23:41 LoginWindow.py 52] DEBUG  点击登录按钮.
+[2020-08-18 14:24:29 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 14:25:41 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 14:26:29 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 14:26:40 LoginWindow.py 44] DEBUG  焦点进入: le_user
+[2020-08-18 14:26:42 <string> 14] DEBUG  btn_char_l_clicked 按下 l 发送: l
+[2020-08-18 14:29:30 LoginWindow.py 47] DEBUG  焦点进入: le_user
+[2020-08-18 14:29:32 LoginWindow.py 55] DEBUG  点击登录按钮.
+[2020-08-18 14:29:37 LoginWindow.py 55] DEBUG  点击登录按钮.
+[2020-08-18 14:29:39 LoginWindow.py 55] DEBUG  点击登录按钮.
+[2020-08-18 14:31:52 LoginWindow.py 45] DEBUG  焦点进入: le_user
+[2020-08-18 14:31:54 LoginWindow.py 53] DEBUG  点击登录按钮.
+[2020-08-18 14:31:58 LoginWindow.py 53] DEBUG  点击登录按钮.
+[2020-08-18 14:32:00 LoginWindow.py 53] DEBUG  点击登录按钮.
+[2020-08-18 14:32:33 LoginWindow.py 45] DEBUG  焦点进入: le_user
+[2020-08-18 14:32:35 LoginWindow.py 53] DEBUG  点击登录按钮.
+[2020-08-18 14:34:18 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:34:19 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:35:20 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:35:22 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:35:49 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:35:51 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:36:18 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:36:19 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:37:08 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:37:10 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:00 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:38:01 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:03 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:04 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:05 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:06 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:06 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:07 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:07 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:07 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:07 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:08 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:08 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:08 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:08 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:09 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:09 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:09 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:38:09 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:41:22 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:41:25 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:41:26 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:41:27 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:41:28 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:41:28 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:41:31 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:41:31 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:41:32 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:42:09 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:43:50 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:44:09 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:46:32 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:48:35 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:50:19 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:50:57 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:50:59 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:50:59 LoginWindow.py 97] DEBUG  点击注册按钮.
+[2020-08-18 14:51:16 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:51:20 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:51:24 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:51:26 LoginWindow.py 97] DEBUG  点击注册按钮.
+[2020-08-18 14:51:27 LoginWindow.py 97] DEBUG  点击注册按钮.
+[2020-08-18 14:51:27 LoginWindow.py 59] DEBUG  焦点进入: le_user
+[2020-08-18 14:51:28 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:51:29 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:51:30 LoginWindow.py 67] DEBUG  点击登录按钮.
+[2020-08-18 14:53:06 LoginWindow.py 61] DEBUG  焦点进入: le_user
+[2020-08-18 14:53:11 LoginWindow.py 61] DEBUG  焦点进入: le_user
+[2020-08-18 14:53:23 LoginWindow.py 61] DEBUG  焦点进入: le_user
+[2020-08-18 14:53:33 LoginWindow.py 61] DEBUG  焦点进入: le_user
+[2020-08-18 14:53:35 LoginWindow.py 69] DEBUG  点击登录按钮.
+[2020-08-18 14:54:52 LoginWindow.py 61] DEBUG  焦点进入: le_user
+[2020-08-18 14:55:08 LoginWindow.py 61] DEBUG  焦点进入: le_user
+[2020-08-18 14:55:12 LoginWindow.py 61] DEBUG  焦点进入: le_user
+[2020-08-18 14:55:15 LoginWindow.py 69] DEBUG  点击登录按钮.
+[2020-08-18 14:56:31 LoginWindow.py 61] DEBUG  焦点进入: le_user
+[2020-08-18 14:56:32 LoginWindow.py 69] DEBUG  点击登录按钮.
+[2020-08-18 14:56:34 LoginWindow.py 61] DEBUG  焦点进入: le_user
+[2020-08-18 14:56:36 LoginWindow.py 61] DEBUG  焦点进入: le_passwd
+[2020-08-18 14:56:44 LoginWindow.py 69] DEBUG  点击登录按钮.
+[2020-08-18 14:56:45 LoginWindow.py 61] DEBUG  焦点进入: le_user
+[2020-08-18 14:57:31 LoginWindow.py 57] DEBUG  焦点进入: le_user
+[2020-08-18 14:57:34 LoginWindow.py 57] DEBUG  焦点进入: le_user
+[2020-08-18 21:09:57 LoginWindow.py 57] DEBUG  焦点进入: le_user
+[2020-08-18 21:15:12 LoginWindow.py 57] DEBUG  焦点进入: le_user
+[2020-08-18 21:15:55 LoginWindow.py 57] DEBUG  焦点进入: le_user
+[2020-08-18 21:16:10 LoginWindow.py 57] DEBUG  焦点进入: le_user

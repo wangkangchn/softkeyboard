@@ -16,6 +16,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QWidget, QMainWindow
 from PyQt5.QtCore import QCoreApplication
 
+from signal import *
 from LoginWindow import LoginWindow
 from SoftKeyBoard import SoftKeyBoard
 
@@ -24,7 +25,7 @@ from utils import logger
 global log
 log = logger.setup_logger('logging.log')
 
-class My_MainWindow:
+class My_MainWindow(QMainWindow):
 
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
@@ -37,13 +38,17 @@ class My_MainWindow:
         self.config_window()
         self.set_slot_func()
 
+        # 接受信号关闭LoginWindow
+        self.c = CustomSignal()
+        c.close_login.connect(MainWindow.hide) # 
+
         # 设置配置文件
         self.soft_keybord.set_log(log)
         self.login_window.set_log(log)
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Hello World (*^▽^*)"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Hello World!"))
 
     def config_window(self):
         # 垂直布局
@@ -69,6 +74,8 @@ class My_MainWindow:
         self.soft_keybord.signal_send_text.connect(self.slot_recive_key)
 
         self.switch_keybord = False     # 控制键盘的开启
+
+        	
 
     def slot_switch_keyboard(self):
         """ 显示关闭软键盘 """
@@ -133,7 +140,6 @@ if __name__ == '__main__':
     MainWindow = QtWidgets.QMainWindow()
     ui = My_MainWindow()
     ui.setupUi(MainWindow)
-    MainWindow.showMaximized()
+    MainWindow.show()
+    # MainWindow.showMaximized()
     sys.exit(app.exec_())
-
-
